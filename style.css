@@ -3,3 +3,12 @@
 #valid1, #valid2, #valid3, #success, #delete{
     display: none;
 }
+body{
+    background-image: url(bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    max-width: 100dvh;
+    margin: auto;
+}
